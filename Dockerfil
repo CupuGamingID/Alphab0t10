@@ -22,7 +22,7 @@ RUN npm install
 RUN mkdir /Alphab0t10
 WORKDIR /Alphab0t10
 COPY . /Alphab0t10
-RUN python3 -m pip install -r /Alphab0t10/requirements.txt
+RUN python3 -m pip install -r /Alphab0t10/gg.txt
 ENV TZ=Asia/Jakarta
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
