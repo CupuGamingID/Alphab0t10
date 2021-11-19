@@ -1,6 +1,0 @@
-/*
-Support channel Cupu Gaming CG
-
-
-Yang jual sc ini anak haram
-*/
